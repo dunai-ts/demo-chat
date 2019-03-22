@@ -1,0 +1,30 @@
+{
+  "name": "demo-chat",
+  "version": "0.1.0",
+  "description": "Demo chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunai-ts/demo-chat.git"
+  },
+  "keywords": [
+    "dunai",
+    "demo",
+    "chat"
+  ],
+  "author": "Arswarog <arswarog@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dunai-ts/demo-chat/issues"
+  },
+  "homepage": "https://github.com/dunai-ts/demo-chat#readme",
+  "dependencies": {
+    "@dunai/core": "^0.1.5",
+    "@dunai/server": "^0.1.2",
+    "express": "^4.16.4",
+    "typescript": "^3.3.4000"
+  }
+}
